@@ -1,22 +1,17 @@
-# apex_charts
+# Dart Apexcharts
 
-A library for Dart developers.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+A Dart API for [APEXCHARTS](https://apexcharts.com/) using dart:js.
 
 ## Usage
 
-A simple usage example:
-
-    import 'package:apex_charts/apex_charts.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
+To understand usage, see the example source code and the corresponding output.
 
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/mdemyanov/dart_apex_charts/issues
+
+## License
+
+ApexCharts is released under MIT license. You are free to use, modify and distribute this software, as long as the copyright header is left intact.
