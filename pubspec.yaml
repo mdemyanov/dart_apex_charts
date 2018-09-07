@@ -1,6 +1,6 @@
 name: dart_apex_charts
 description: 'A generated Dart API for [APEXCHARTS](https://apexcharts.com/) using dart:js.'
-version: '0.2.0'
+version: '0.2.3'
 homepage: 'https://github.com/mdemyanov/dart_apex_charts'
 author: 'mdemyanov <mdemyanov@naumen.ru>'
 

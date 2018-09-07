@@ -1,6 +1,6 @@
-import 'package:dart_apex_charts/apex_charts.dart';
+import 'package:dart_apex_charts/dart_apex_charts.dart';
 
-main() {
+void main() {
   Map<String, dynamic> options = <String, dynamic>{
     'chart': {
       'height': 380,
@@ -31,8 +31,8 @@ main() {
         'Germany'
       ],
     },
-    'yaxis': {},
-    'tooltip': {}
+    'yaxis': <String, dynamic>{},
+    'tooltip': <String, dynamic>{}
   };
   ApexCharts chart = ApexCharts('#chart', options);
   chart.render();
