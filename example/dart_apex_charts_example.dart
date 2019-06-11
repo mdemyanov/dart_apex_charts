@@ -39,7 +39,8 @@ void drawHorizontalBar() {
     'yaxis': <String, dynamic>{},
     'tooltip': <String, dynamic>{}
   };
-  ApexCharts chart = ApexCharts('#horizontalBar', options);
+  ApexCharts chart = ApexCharts(
+      '#horizontalBar', options);
   chart.render();
 }
 
